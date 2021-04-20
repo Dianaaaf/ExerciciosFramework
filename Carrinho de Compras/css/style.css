@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/* TAGS */
+*{
+    background-color: white;
+}
+header{
+    margin-bottom: 80px;
+}
+
+/* ID */
+#form{
+    display: inline-flex;
+}
+#cabecalho{
+    color: black;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+
+

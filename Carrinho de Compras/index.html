@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>Shopping Cart</title>
+</head>
+<body>
+<div id="cabecalho">
+    <header>
+        <h2 class="text-center">Your Personal Shopping Online</h2>
+    </header>
+</div>
+
+<div class="container">
+    <div class="row justify justify-content-center">
+        <div class="col-4">
+            <div id="form" class="text-center">
+                <input type="text" name="todo" class="form-control" class="text-center" placeholder="add a new task" required></input>
+
+                <input type="text" hidden name="id">
+                <button type="submit" class="btn btn-danger">Save</button>
+                <button type="submit" id="btnQuant" value="Add quantity" class="btn btn-warning"></button>
+            </div>
+
+            <ul class="listGroup">
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+<script src="main.js"></script>
+
+</body>
+</html>
