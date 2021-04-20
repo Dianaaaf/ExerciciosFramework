@@ -1,2 +1,4 @@
-# ExerciciosFramework
-Repositório para postagem de atividades e trabalhos de Framework.
+## ExerciciosFramework
+#### Repositório criado para postagem de meus exercícios da matéria Framework.
+#### Os exercícios serão preferencialmente, em Javascript.
+Obrigada! :hugs:
